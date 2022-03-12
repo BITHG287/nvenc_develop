@@ -1,0 +1,9 @@
+{
+    "src_video": "/media/hp/DATA/4k/20220304_movies/白毛女_deoldify_out_3840x2160_ahq-12-30fps.mov",
+    "dst_video": "/media/hp/DATA/4k/20220304_movies/白毛女-4k-60fps.ts",
+    "share_file": "/dev/shm/1.yuv",
+    "PORT": 9999,
+    "W": 3840,
+    "H": 2160,
+    "FPS": 6000
+}

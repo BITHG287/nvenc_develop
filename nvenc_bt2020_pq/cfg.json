@@ -1,0 +1,9 @@
+{
+    "src_video": "/media/hp/DATA/4k/20220304_movies/假期眩晕_对比.mov",
+    "dst_video": "/media/hp/DATA/4k/20220304_movies/假期眩晕_对比.ts",
+    "share_file": "/dev/shm/1.yuv",
+    "PORT": 9999,
+    "W": 3840,
+    "H": 2160,
+    "FPS": 5000
+}
